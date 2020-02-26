@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week02</string>
+    <string name="showVideo">Show Video</string>
+    <string name="launchDetailActivity">Launch Detail Activity</string>
+</resources>
